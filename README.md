@@ -1,20 +1,17 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+## CryptoVerse [with React JS, Material UI and Chart JS]
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+![image](https://github.com/sumitkumar16dec/CryptoVerse/assets/77963232/0d2113f2-b7cc-48d1-9c76-2d56cd91400d)
+![image](https://github.com/sumitkumar16dec/CryptoVerse/assets/77963232/37e55a18-6424-4ad3-bbea-4ffdcc1b865c)
+![image](https://github.com/sumitkumar16dec/CryptoVerse/assets/77963232/5d0f40ba-1d90-4c89-a4ab-7e1a07aafa50)
+![image](https://github.com/sumitkumar16dec/CryptoVerse/assets/77963232/25579e14-8fe4-4821-a5a4-aaff27d3a0a0)
+![image](https://github.com/sumitkumar16dec/CryptoVerse/assets/77963232/943d7895-f575-4ce5-86d4-76d4cf46d4c7)
+![image](https://github.com/sumitkumar16dec/CryptoVerse/assets/77963232/319a4f08-7def-4b3d-940c-060f8423ccdb)
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
-
-## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+#### Here is a working live website :  https://sumit-cryptoverse.netlify.app/
 
 ## Built with 
-
 - [React JS](https://reactjs.org/)
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
-
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
-
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+## Made with ♥ By [Sumit]
